@@ -1,6 +1,6 @@
 # moogun030
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=soft&color=0:c4eafd,100:49a7ee&height=180&text=감성%20코더%20김무건&animation=&fontColor=ffffff&fontSize=70" />
+    <img src="https://capsule-render.vercel.app/api?type=soft&color=0:c4eafd,100:49a7ee&height=180&text=매일%20발전하는%20코더%20김무건&animation=&fontColor=ffffff&fontSize=70" />
     </div>
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 여전하지 않고 역전하는 신입 개발자 "김무건" 입니다. </h2>  
