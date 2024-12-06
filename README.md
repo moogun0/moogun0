@@ -3,7 +3,7 @@
     <img src="https://capsule-render.vercel.app/api?type=soft&color=0:c4eafd,100:49a7ee&height=180&text=매일%20발전하는%20코더%20김무건&animation=&fontColor=ffffff&fontSize=70" />
     </div>
     <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 여전하지 않고 역전하는 신입 개발자 "김무건" 입니다. </h2>  
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 여전하지 않고 역전하는 개발자 "김무건" 입니다. </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 꾸준함만이 나를 나 답게 만드는 길.</li>후회 없이 모든 일에 최선을 다하자. </div> 
     </div>
     <div align= "center">
